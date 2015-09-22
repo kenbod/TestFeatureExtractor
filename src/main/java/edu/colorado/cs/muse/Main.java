@@ -1,3 +1,5 @@
+package edu.colorado.cs.muse; 
+
 import edu.colorado.plv.fixr.*;
 
 public class Main {
